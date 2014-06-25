@@ -17,7 +17,7 @@ $ git commit -m "First commit"
 $ npm install grunt-cli -g
 $ npm install
 $ grunt serve
-``
+```
 
 see http://localhost:8000
 
@@ -54,26 +54,3 @@ $ vim slide.md
 
 - https://github.com/hakimel/reveal.js#full-setup
 - [Deploy reveal.js slideshow on github-pages | Tikal](http://tikalk.com/alm/deploy-revealjs-slideshow-github-pages)
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
